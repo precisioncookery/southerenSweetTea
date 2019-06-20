@@ -28,11 +28,7 @@ Take 600g of water and bring to a boil, and turn off the heat. Add in the tea le
 Serve over ice, 
 
 
-## Brix values for commonly availible sweet tea
-
-Popeyes
-
-### Comparison
+## Brix values for commonly availible drinks
 | Beverage              | Sugar (°Bx) |
 | --------------------- | -----------:|
 | Coca-Cola             | 10.9        |
@@ -48,42 +44,38 @@ Popeyes
 # Notes
 
 Jug is 1180g
-150g Sugar
-2g salt?
-0.3g baking soda
-10g magno tea
-1847ml Water
+- 150g Sugar
+- 2g salt?
+- 0.3g baking soda
+- 10g magno tea
+- 1847ml Water
 
 2L total volume of tea.
 
 
 ---
 
-10g Marzipan tea
-125g sugar
-Pinch salt (0.5g)
-Water to bring mass up to 2kg (2000-135.5)
+- 10g Marzipan tea
+- 125g sugar
+- Pinch salt (0.5g)
+- Water to bring mass up to 2kg (2000-135.5)
 
 Infuse in fridge for 8 hours.
 
 ---
 
-5g Countess Grey
-50g Sugar
-0.25g salt
-Water to 1kg
+- 5g Countess Grey
+- 50g Sugar
+- 0.25g salt
+- Water to 1kg
 
-Refrigerate 8-12hr
-
-~5°Bx, 1L tea.
+Refrigerate 8-12hr, ~5°Bx, 1L tea.
 
 ---
 
-5g Countess Grey
-50g Sugar
-0.05g salt
-Water to 1kg
+- 5g Countess Grey
+- 50g Sugar
+- 0.05g salt
+- Water to 1kg
 
-Refrigerate 12hr
-
-~5°Bx, 1L tea.
+Refrigerate 12hr, ~5°Bx, 1L tea.
