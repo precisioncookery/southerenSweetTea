@@ -29,17 +29,29 @@ Serve over ice,
 
 
 ## Brix values for commonly availible drinks
+
+I spent a long time wokring a recipe, and it was getting quite complex. My procedure was down firm, and I just needed to find out the perfect ratios. THe plan was to take a loose leaf tea and brew a high concentration in filtered, just under boiling, water. Add the strong tea to granulated sugar to dissolve and add salt for tate and baking soda (mesured to perfection though titration of the brewed tea) to counteract the tannins released in brewing for a smoother, less astringent, ph balanced tea. Add the rest of the water, and either let come to room temperature or chill quickly to room temperature with ice before placing in the refrigeratior to cool completely to pervent clouding by impurities in the tea and latent minreals in the water. 
+
+I had some 
+
+It also took a lot of tries to get the correct sugar level. Having consulted many recipies to see what the average was to start with was no help, the varience was so large, and with the sugar and water mesured by volume teqnie and order of making would make a significat diffrence. It came to mind to look at all the drinks I have had before and like the sweetness of to try and get matching numbers.
+
+Solubility and other temperature effects don't pay a role at the concentration we are looking at so it is ignored.
+
+The ammount of sugar dissolved in a solution can be denoted in degrees Brix. It is equivilent to percentage of sugar by mass. For example a 100g solution of sugar water with 1 gram of sugar is 1°Bx, a simple syrup done by mass is 50°Bx. Since suagr and water have diffrent densities . An existing solution's specific gravity can be mesured with a hydrometer (specifically a saccharometer calibrated for sugar solutions), and if it is known to be primarily a suagr water solution the value can be calculated.
+
 | Beverage              | Sugar (°Bx) |
 | --------------------- | -----------:|
 | Coca-Cola             | 10.9        |
-| Sprite                | 9.0         |
+| Sprite                |  9.0        |
 | Simple Limeade        | 13.0        |
-| Club-Mate             | 5.0         |
-| Coconut Water         | 2.6         |
-| Aloe Drink            | 3.8         |
-| McDonalds Sweet Tea   | 7.8         |
-| Chick-Fil-A Sweet Tea | 5.1         |
-| Popeyes Sweet Tea     | 6.9         |
+| Club-Mate             |  5.0        |
+| Coconut Water         |  2.6        |
+| Aloe Drink            |  3.8        |
+| McDonalds Sweet Tea   |  7.8        |
+| Chick-Fil-A Sweet Tea |  5.1        |
+| Popeyes Sweet Tea     |  6.9        |
+| Zaxbys Sweet Tea      | 11.0        |
 
 # Notes
 
@@ -75,7 +87,17 @@ Refrigerate 8-12hr, ~5°Bx, 1L tea.
 
 - 5g Countess Grey
 - 50g Sugar
-- 0.05g salt
+- 0.05g salt (5mg/250ml)
+- Water to 1kg
+
+Refrigerate 12hr, ~5°Bx, 1L tea.
+
+---
+
+
+- 5g Countess Grey
+- 50g Sugar
+- 0.5g salt (Gatorade level salt, electrolyte replenish)
 - Water to 1kg
 
 Refrigerate 12hr, ~5°Bx, 1L tea.
